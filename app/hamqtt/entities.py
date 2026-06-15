@@ -104,6 +104,7 @@ class Battery(ValueEntity):
             platform="sensor",
             template=template,
             device_class="battery",
+            state_class='measurement',
             unit="%",
             enabled=enabled)
 
