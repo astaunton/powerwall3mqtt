@@ -5,6 +5,7 @@
 ### Fixed
 
 - Fixed Battery not selectable in energy dashboard.
+- Updated build to work with latest hassio requirements
 
 ## [0.5.2] - 2025-06-09
 
