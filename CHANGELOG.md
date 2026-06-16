@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.5.3] - 2026-06-15
+
+### Fixed
+
+- Fixed Battery not selectable in energy dashboard.
+
 ## [0.5.2] - 2025-06-09
 
 ### Fixed
